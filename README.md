@@ -2,4 +2,4 @@
 
 # Hysteria2 
 
-(click)[https://clck.ru/3UqPN8]
+[click](https://clck.ru/3UqPN8)
