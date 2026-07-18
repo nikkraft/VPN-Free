@@ -12,6 +12,8 @@
 
 Happ https://play.google.com/store/apps/details?id=com.happproxy
 
+FClash https://github.com/chen08209/FlClash/releases
+
 ## 📖 Инструкция по установке (Пример: HAPP)
 
 Скопируйте необходимую ссылку из списка выше.
