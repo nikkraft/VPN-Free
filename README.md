@@ -8,6 +8,10 @@
 
 [Vless All-clash](https://clck.ru/3UqQTH)
 
+## Ссылки для скачивания конфигураторов
+
+Happ https://play.google.com/store/apps/details?id=com.happproxy
+
 # 📖 Инструкция по установке (Пример: HAPP)
 
 Скопируйте необходимую ссылку из списка выше.
