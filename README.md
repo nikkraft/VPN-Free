@@ -12,6 +12,8 @@
 
 [ScalaVpn](https://clck.ru/3UtY6w)
 
+[Vair](https://clck.ru/3UtYKH)
+
 ## Ссылки для скачивания конфигураторов
 
 Happ https://play.google.com/store/apps/details?id=com.happproxy
@@ -58,6 +60,8 @@ VlessAll - https://vpn.akres.fun/
 WhiteAndBlack - https://github.com/jsxta/whitelist-russia
 
 ScalaVpn - https://github.com/zxcDeadinsulte/scalavpn-configs
+
+Vair - https://github.com/lm705/vair
 
 ## ❗ Дисклеймер:
 
