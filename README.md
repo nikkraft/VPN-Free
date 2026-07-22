@@ -14,6 +14,8 @@
 
 [Vair](https://clck.ru/3UtYKH)
 
+[Aetris](https://clck.ru/3UuPYs)
+
 ## Ссылки для скачивания конфигураторов
 
 Happ https://play.google.com/store/apps/details?id=com.happproxy
@@ -62,6 +64,8 @@ WhiteAndBlack - https://github.com/jsxta/whitelist-russia
 ScalaVpn - https://github.com/zxcDeadinsulte/scalavpn-configs
 
 Vair - https://github.com/lm705/vair
+
+Aetris - https://github.com/flaafix/AetrisVPN
 
 ## ❗ Дисклеймер:
 
