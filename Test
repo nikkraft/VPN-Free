@@ -1,5 +1,5 @@
 #profile-update-interval: 1
 #profile-title: 67
-#subscription-userinfo: upload=1; download=2; total=3; expire=676767676767
+#subscription-userinfo: upload=0; download=0; total=100; expire=676767676767
 
 vless://328bbdde-9865-4c1e-afb5-8fb7ee703c59@yt.noooo.win:8443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=ai-6a6c7dbe.noooo.win&alpn=h2&fp=edge&type=tcp&headerType=none#YouTube%F0%9F%8D%BF
