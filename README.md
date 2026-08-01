@@ -10,8 +10,6 @@
 
 [ScalaVpn](https://clck.ru/3UtY6w)
 
-[Vair](https://clck.ru/3UtYKH)
-
 [Aetris](https://clck.ru/3UuPYs)
 
 [MifaSS](https://clck.ru/3UuPdd)
@@ -52,8 +50,6 @@ VlessAll - https://vpn.akres.fun/
 WhiteAndBlack - https://github.com/jsxta/whitelist-russia
 
 ScalaVpn - https://github.com/zxcDeadinsulte/scalavpn-configs
-
-Vair - https://github.com/lm705/vair
 
 Aetris - https://github.com/flaafix/AetrisVPN
 
