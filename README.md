@@ -8,7 +8,7 @@
 
 [WhiteAndBlack](https://gbr.mydan.online/configs)
 
-[ScalaVpn](https://clck.ru/3UtY6w)
+[ScalaVpn](https://raw.githubusercontent.com/zxcDeadinsulte/scalavpn-configs/refs/heads/main/sub/free_sub)
 
 [Aetris](https://clck.ru/3UuPYs)
 
