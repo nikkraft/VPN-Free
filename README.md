@@ -2,7 +2,7 @@
 
 ## Список конфигураций 
 
-[Hysteria2](https://clck.ru/3UqPN8)
+[Hysteria2](https://raw.githubusercontent.com/Subzio/subzio/refs/heads/main/HYSTERIA2.txt)
 
 [Vless All](https://clck.ru/3UqQRj)
 
