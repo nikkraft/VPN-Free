@@ -6,7 +6,7 @@
 
 [Vless All](https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/all)
 
-[WhiteAndBlack](https://clck.ru/3Ut3gB)
+[WhiteAndBlack](https://gbr.mydan.online/configs)
 
 [ScalaVpn](https://clck.ru/3UtY6w)
 
