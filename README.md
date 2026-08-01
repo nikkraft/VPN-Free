@@ -4,7 +4,7 @@
 
 [Hysteria2](https://raw.githubusercontent.com/Subzio/subzio/refs/heads/main/HYSTERIA2.txt)
 
-[Vless All](https://clck.ru/3UqQRj)
+[Vless All](https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/all)
 
 [WhiteAndBlack](https://clck.ru/3Ut3gB)
 
