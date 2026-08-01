@@ -10,7 +10,7 @@
 
 [ScalaVpn](https://raw.githubusercontent.com/zxcDeadinsulte/scalavpn-configs/refs/heads/main/sub/free_sub)
 
-[Aetris](https://clck.ru/3UuPYs)
+[Aetris](https://raw.githubusercontent.com/flaafix/AetrisVPN/refs/heads/main/AetrisVPN.txt)
 
 [MifaSS](https://clck.ru/3UuPdd)
 
