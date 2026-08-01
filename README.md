@@ -12,15 +12,15 @@
 
 [Aetris](https://raw.githubusercontent.com/flaafix/AetrisVPN/refs/heads/main/AetrisVPN.txt)
 
-[MifaSS](https://clck.ru/3UuPdd)
+[MifaVless](https://mifa.world/vless)
 
-[MifaHysteria2](https://clck.ru/3UuPeD)
+[MifaHysteria2](https://mifa.world/hysteria)
 
-[MifaVless](https://clck.ru/3UuPes)
+[MifaSS](https://mifa.world/ss)
 
-[MifaTrojan](https://clck.ru/3UuPfu)
+[MifaTrojan](https://mifa.world/trojan)
 
-[MifaWmess](https://clck.ru/3UuPhM)
+[MifaWmess](https://mifa.world/vmess)
 
 ## Ссылки для скачивания конфигураторов
 
